@@ -1,0 +1,8 @@
+U:\DS\dunder_mifflin\dunder_mifflin\bin\Debug\dunder_mifflin.exe.config
+U:\DS\dunder_mifflin\dunder_mifflin\bin\Debug\dunder_mifflin.exe
+U:\DS\dunder_mifflin\dunder_mifflin\bin\Debug\dunder_mifflin.pdb
+U:\DS\dunder_mifflin\dunder_mifflin\obj\Debug\dunder_mifflin.csprojResolveAssemblyReference.cache
+U:\DS\dunder_mifflin\dunder_mifflin\obj\Debug\dunder_mifflin.MainForm.resources
+U:\DS\dunder_mifflin\dunder_mifflin\obj\Debug\dunder_mifflin.csproj.GenerateResource.Cache
+U:\DS\dunder_mifflin\dunder_mifflin\obj\Debug\dunder_mifflin.exe
+U:\DS\dunder_mifflin\dunder_mifflin\obj\Debug\dunder_mifflin.pdb

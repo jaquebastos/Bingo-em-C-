@@ -1,0 +1,2 @@
+lm	1	Vendas
+hu	5	Vendas
